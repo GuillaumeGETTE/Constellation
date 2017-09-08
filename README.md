@@ -2,7 +2,9 @@
 Ce projet est le résultat d'un Projet Scientifique Collectif (PSC), qui vise à l'élaboration d'un système pour routeurs Wi-Fi qui permet aux utilisateurs de s'authentifier grâce à leur position. La sécurité de l'authentification ne réside alors plus sur un mot de passe mais sur une localisation jugée de confiance.
 
 # License
+
 Ce projet est publié sous license MIT.
+
 &copy; 2017 Duquenne Paul-Ambroise, de Fouchécour François, Gette Guillaume, Grenier Pierre-Jean, Piau Olivier, Riffard Antonin
 
 # Pré-requis

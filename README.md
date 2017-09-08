@@ -9,5 +9,5 @@ Ce projet est publié sous licence MIT.
 
 # Pré-requis
 
-* Installer la version modifiée pour Constellation de Homenet : https://github.com/GuillaumeGETTE/hnetd (branche constellation)
+* Installer la version modifiée pour Constellation de Homenet : https://github.com/GuillaumeGETTE/hnetd/tree/constellation (branche constellation)
 * Pour utiliser les scripts d'action, installer wpa\_cli. `wpa_cli -p /var/run/hostapd -a /path/to/this/script [-B for background running]` peut vous servir pour lancer le script.
